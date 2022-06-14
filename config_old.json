@@ -1,0 +1,64 @@
+{
+	"start_command" : "Start",
+
+	"show_cocktails_list_button" : "Посмотреть список коктейлей",
+	"show_cocktails_list" : "Какие коктейли интересуют сегодня?",
+	"choose_party_button" : "Выбрать вечеринку",
+
+	"wait_command" : "Идет подготовка фотографий...",
+	"choose_party" : "Выберите вечеринку",
+	"user_party" : "Ваша: ",
+	"u-drink_party" : "От создателей: ",
+	"create_new_party_button" : "Создать свою вечеринку",
+	"create_new_party_step_1" : "Давай начнем, для начала введите название...",
+	"create_new_party_step_2" : "Имя записано теперь нам предстоит выбор коктейлей",
+	"empty_text_error" : "Я вас не понял попробуйте еще раз",
+	"choose_another_collection_button" : "Посмотреть коктейли в других коллекциях",
+	"complete_cocktail_selection_button" : "Завершить добавление коктейлей",
+	"choose_another_collection" : "Продолжим выбор",
+	"complete_cocktail_selection" : "С этим мы закончили, осталось определиться с количеством",
+	"cocktail_successfully_aded" : "Коктейль успешно добавлен",
+	"value_error" : "Пожалуйста введите число",
+	"party_creating_end" : "Мы закончили создавать вечеринку, теперь вы можете найти ее в своих вечеринках",
+	"main_menu_button" : "Главное меню",
+	"main_menu" : "Главное меню",
+	"remove_party_button" : "Удалить вечеринку",
+	"edit_party_button" : "Редактировать вечеринку",
+	"choose_party_for_delete" : "Выберите вечеринку для удаления",
+	"delete_confirm" : "Вы уверены что хотите удалить: ",
+	"delete_ended" : "Готово!",
+	"not_enougth_partys" : "У вас нет вечеринок для удаления",
+	"choose_party_for_edit" : "Выберите вечеринку для редактирования колличества напитков",
+	"cocktail_in_party_template" : "Кол-во коктейлей для данной вечеринки",
+	"choose_cocktail_to_edit" : "Выбериете коктейль для редактирования колличества",
+	"enter_count" : "Введите количество, которое хотите",
+	"coctail_count_changed" : "Готово, мы изменли кол-во",
+	"editing_party_end_button" : "Закончить редактирование",
+	"editing_party_end" : "Редактирование завершено",
+
+	"cocktails_list_buttons" : {
+		"random_collection_button" : "5 Рандомных коктейлей",
+		"first_collection_button" : "Tiki коктейли",
+		"second_collection_button" : "Классические коктейли",
+		"third_collection_button" : "Mood коктейли"
+	},
+
+	"collections_info" : {
+		"first_collection" : {
+			"description" : "Fucking tiki description",
+			"photos" : [0,1,2,3,4]
+		},
+		"second_collection" : {
+			"description" : "Fucking classic description",
+			"photos" : [5,6,7,8,9]
+		},
+		"third_collection" : {
+			"description" : "Fucking mood description",
+			"photos" : [15,16,17,18,19]
+		},
+		"random_collection" : {
+			"description" : "Fucking random description",
+			"photos" : []
+		}
+	}
+}
